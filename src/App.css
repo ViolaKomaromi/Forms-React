@@ -1,0 +1,39 @@
+.Container {
+  width:600px;
+  height: 50%;
+  text-align: center;
+  text-shadow: 2px 3px 5px white;
+
+  margin:auto;
+  background: url("https://images.photowall.com/products/65920/hanging-palm-leaves-pink.jpg?h=699&q=85");
+  background-position: center;
+  background-size: contain;
+  color: rgb(36, 35, 35);
+  font-size: 20px;
+  font-family: bold;
+
+}
+
+.SimpleForm{
+  border:2px solid black;
+  margin-bottom: 10px;
+
+}
+.Cards{
+
+  border: 5px solid rgb(241, 139, 156);
+  padding: 5px;
+}
+
+.Card1{
+  border: 3px solid rgba(236, 113, 134, 0.808);
+  margin-bottom: 10px;
+  
+}
+
+.Card1 p{
+  background:rgb(230, 159, 171);
+  padding: 5px;
+  font-family: bold;
+  
+}
